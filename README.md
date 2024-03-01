@@ -1,2 +1,2 @@
-# tiny-downloader
-This is a simple script to download youtube videos or playlists.
+# yt
+This is a simple tiny script to download youtube videos or playlists.
