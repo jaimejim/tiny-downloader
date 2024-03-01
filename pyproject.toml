@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "yt-down"
+version = "0.0.1"
+description = "Simple youtube downloader"
+authors = ["Jaime Jimenez <jaimejim@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pytube = "^15.0.0"
+click = "^8.1.7"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
