@@ -39,6 +39,7 @@ Starting download: 74 - 01 El Cerdito Práctico (1939) (1er Redoblaje).mp4
 Starting download: 17 - Melodías de Mamá Ganso (1931) (2do Redoblaje).mp4
 ```
 
-## Note
+## Notes
 
-The concurrent workers are set to `5`. A higher number may cause YouTube to temporarily block your IP. For Archive.org downloads, ensure you comply with their terms of service and use responsibly to avoid overloading their servers.
+- The concurrent workers are set to `5`. A higher number may cause YouTube to temporarily block your IP. For Archive.org downloads, ensure you comply with their terms of service and use responsibly to avoid overloading their servers.
+- `pytube` seems not to be actively developed anymore.
